@@ -1,0 +1,20 @@
+{
+	"title"		:	"Split Bullet",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "cartoon" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+        "*.svn*",
+        "*.pdn",
+        "*.sfk",
+        "*.veg",
+        "*.git*",
+		"*.md",
+		".git/*",
+		"LICENSE",
+        "gamemodes/splitbullet/.git/*",
+		"gamemodes/splitbullet/LICENSE"
+	]
+} 
