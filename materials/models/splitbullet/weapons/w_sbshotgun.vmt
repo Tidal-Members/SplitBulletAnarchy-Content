@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "../addons/splitbullet-server/gamemodes/splitbullet/materials/models/splitbullet/weapons/w_sbshotgun"
+
+	$alpha 0.8
+	$alphatest 1
+}
